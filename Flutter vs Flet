@@ -1,5 +1,6 @@
 This Data For Flutter vs Flet 
 
+------------------------------------------------------------------------------------------------------------------------------------
 * Flutter * 
 Flutter language made by google 
 main use of flutter is Development of Web or App 
@@ -22,4 +23,21 @@ like add , multi etc ....
 
 - advantages 
 
-flutter = html + css ---->  flutter do both , 
+flutter = html + css ---->  flutter do both 
+frontend  ( flutter )
+backend ( DART ) 
+ALL IN ONE = App + Web + Ios + linux + desktop 
+
+
+- disadvantages 
+all logic is not already define 
+example : 
+button and button click is define but after click logic is not here its depend on developer 
+after click - write dart code or flutter code for jump on other page or update current page 
+DART is must for fullstack developer 
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+* Flet * 
+
+
