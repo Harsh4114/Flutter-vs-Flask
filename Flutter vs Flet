@@ -52,5 +52,5 @@ syntax is 80% similar to flutter and reduce lines of code
 * Document * 
 
 ( basic.py ) - Flet Coding File - Counter app 
-( basic.dart ) - Flutter Coding File - Counter app 
+( main.dart  , count_text.dart ) - Flutter Coding File - Counter app 
 
