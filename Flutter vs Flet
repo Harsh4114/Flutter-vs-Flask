@@ -3,6 +3,21 @@ This Data For Flutter vs Flet
 * Flutter * 
 Flutter language made by google 
 main use of flutter is Development of Web or App 
-it's like HTML , CSS and JS 
+
+
+
 - Why we use flutter ?
+
+before flutter 
+HTML - skeleten of web 
+CSS - design 
+JS - logic 
+
+html , css  and js are must for development of web 
+
+after flutter 
+flutter = HTML + CSS + JS 
+some logic is already define in flutter like button , row , column and some logic is develop by DART coding 
+like add , multi etc .... 
+
 
