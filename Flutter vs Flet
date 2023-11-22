@@ -1,6 +1,7 @@
 This Data For Flutter vs Flet 
 
 ------------------------------------------------------------------------------------------------------------------------------------
+
 * Flutter * 
 Flutter language made by google 
 main use of flutter is Development of Web or App 
@@ -38,6 +39,17 @@ DART is must for fullstack developer
 
 
 ------------------------------------------------------------------------------------------------------------------------------------
+
 * Flet * 
 
+Flet is sub version of flutter but main diffrent is Flet use Python ( replace of DART ) 
+and second diffrent is strcture and syntax 
+syntax is 80% similar to flutter and reduce lines of code 
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+* Document * 
+
+( basic.py ) - Flet Coding File - Counter app 
+( basic.dart ) - Flutter Coding File - Counter app 
 
